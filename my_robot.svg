@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 width="500.0px" height="500.0px" viewBox="0 0 500 500" enable-background="new 0 0 500 500"
+	 xml:space="preserve">
+
+<g transform="translate(250 255)">
+	<!-- torso -->
+	<g transform="rotate(-8)">
+		<polygon fill="#2D7DD2" points="-55,-55 55,-55 -55,55 "/>
+		<polygon fill="#2D7DD2" points="-55,55 55,-55 55,55"/>
+	</g>
+
+	<!-- head -->
+	<g transform="translate(0 -105)">
+		<g transform="rotate(18)">
+			<g transform="scale(.55 .55)">
+				<polygon fill="#97CC04" points="-50,-50 50,-50 -50,50 "/>
+				<polygon fill="#97CC04" points="-50,50 50,-50 50,50"/>
+			</g>
+		</g>
+	</g>
+
+	<!-- left leg, planted behind -->
+	<g transform="translate(-35 72)">
+		<g transform="rotate(20)">
+			<g transform="scale(.22 .62)">
+				<polygon fill="#2D7DD2" points="-50,-50 50,-50 -50,50 "/>
+				<polygon fill="#2D7DD2" points="-50,50 50,-50 50,50"/>
+			</g>
+			<g transform="translate(-25 75)">
+				<g transform="rotate(-30)">
+					<g transform="scale(.22 .62)">
+						<polygon fill="#F45D01" points="-50,-50 50,-50 -50,50 "/>
+						<polygon fill="#F45D01" points="-50,50 50,-50 50,50"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+
+	<!-- right leg, kicked forward -->
+	<g transform="translate(35 72)">
+		<g transform="rotate(-32)">
+			<g transform="scale(.22 .62)">
+				<polygon fill="#2D7DD2" points="-50,-50 50,-50 -50,50 "/>
+				<polygon fill="#2D7DD2" points="-50,50 50,-50 50,50"/>
+			</g>
+			<g transform="translate(25 75)">
+				<g transform="rotate(28)">
+					<g transform="scale(.22 .62)">
+						<polygon fill="#F45D01" points="-50,-50 50,-50 -50,50 "/>
+						<polygon fill="#F45D01" points="-50,50 50,-50 50,50"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+
+	<!-- left arm, swinging back -->
+	<g transform="translate(-70 -35)">
+		<g transform="rotate(35)">
+			<g transform="scale(.6 .18)">
+				<polygon fill="#97CC04" points="-50,-50 50,-50 -50,50 "/>
+				<polygon fill="#97CC04" points="-50,50 50,-50 50,50"/>
+			</g>
+			<g transform="translate(-70 0)">
+				<g transform="rotate(25)">
+					<g transform="scale(.55 .18)">
+						<polygon fill="#F45D01" points="-50,-50 50,-50 -50,50 "/>
+						<polygon fill="#F45D01" points="-50,50 50,-50 50,50"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+
+	<!-- right arm, waving overhead -->
+	<g transform="translate(70 -35)">
+		<g transform="rotate(-78)">
+			<g transform="scale(.6 .18)">
+				<polygon fill="#97CC04" points="-50,-50 50,-50 -50,50 "/>
+				<polygon fill="#97CC04" points="-50,50 50,-50 50,50"/>
+			</g>
+			<g transform="translate(70 0)">
+				<g transform="rotate(-45)">
+					<g transform="scale(.55 .18)">
+						<polygon fill="#F45D01" points="-50,-50 50,-50 -50,50 "/>
+						<polygon fill="#F45D01" points="-50,50 50,-50 50,50"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+
+</svg>
